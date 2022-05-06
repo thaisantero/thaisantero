@@ -4,6 +4,8 @@ I am a graduate in civil engeneering and a master student in water resources eng
 - I am currently looking for jobs as data scientist jr. As so, i am looking for opportunities and collaboration in projects related to data science and machine learning.
 - 🌱 I’m currently learning more about Machine Learning and SQL.
 
+#### Programming languages I have already worked on: Python, R, SQL.
+
 ### Engeneering projects developed:
 
 I have two projects in R that i used to help in my engeneering work, decreasing the operation time largely. They are:
