@@ -1,7 +1,7 @@
 ### 👋 Hi
 I am a graduate in civil engeneering and a master student in water resources engineering in the Universidade Federal do Ceará. My research is focused on applying Machine Learning techniques in hydrological data.
 - 👀 Today, i am interested in entering in field of data science.
-- I am currently looking for jobs as a data analyst or as a data scientist jr. As so, i am looking for opportunities and collaboration in projects related to data science and machine learning.
+- I am currently looking for jobs as data scientist jr. As so, i am looking for opportunities and collaboration in projects related to data science and machine learning.
 - 🌱 I’m currently learning more about Machine Learning and SQL.
 
 ### Engeneering projects developed:
