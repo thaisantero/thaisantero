@@ -1,13 +1,13 @@
 ### 👋 Hi
-I am a graduate in civil engeneering and a master student in water resources engineering in the Universidade Federal do Ceará. My research is focused on applying Machine Learning techniques in hydrological data.
-- 👀 Today, i am interested in entering in field of TI as a backend developer.
-- I am currently looking for backeend developer courses that can make me enter a company as a junior backend dev. 
+I am a civil engineering graduate and a master's student in water resources engineering at the Universidade Federal do Ceará. My research is focused on applying Machine Learning techniques to hydrological data.
+Today, I am interested in entering the field of TI as a backend developer.
+I am currently looking for backend developer courses that can make me join a company as a junior backend dev.
 
 #### Programming languages I have already worked on: Python, R, MySQL.
 
 ### Engeneering projects developed:
 
-I have two projects in R that i used to help in my engeneering work, decreasing the operation time largely. They are:
+I have two projects in R that I used to help in my engineering work, decreasing the operation time vastly. They are:
 
 Transform_Raster_Elevation
 (https://github.com/thaisantero/Transform_Raster_Elevation)
