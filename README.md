@@ -4,9 +4,7 @@ Today, I am studying Ruby, Rails, Python to be a back-end developer.
 
 Programming languages I have already worked on: Ruby, Python, R, MySQL.
 
-#### I write the blog "What I learned" where I share some things I learned while coding.
-
-[What I learned](https://thaisantero.github.io/)
+#### I write the blog [What I learned](https://thaisantero.github.io/) where I share some things I learned while coding.
 
 #### 📫 You can reach me via my LinkedIn page:
 
